@@ -27,10 +27,10 @@ Projects file:
         Objective: Predict passenger survival on the Titanic dataset using classification.
 
 Tech Stack:
-    Python
-    Jupyter Notebook
-    Pandas, NumPy
-    Matplotlib, Seaborn
+    Python, 
+    Google Collabs, 
+    Pandas, NumPy, 
+    Matplotlib, Seaborn, 
     Scikit-learn
 
 Key Learnings:
